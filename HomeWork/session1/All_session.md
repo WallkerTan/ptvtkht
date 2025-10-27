@@ -82,7 +82,7 @@ Mô hình phát triển: Agile – dễ thay đổi, phản hồi nhanh
 
 3 sơ đồ UML: Use Case, Class, Sequence
 
-Bài 8 – Hệ thống logistics
+**Bài 8 – Hệ thống logistics**
 
 Actors: khách hàng, tài xế, quản lý, CEO, hệ thống ngoài
 
