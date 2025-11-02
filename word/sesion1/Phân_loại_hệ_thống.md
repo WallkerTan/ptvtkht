@@ -82,13 +82,13 @@ Càng lên cao → thông tin càng **tổng quát** và **mang tính chiến l�
 
 ## 4. Các hệ thống mở rộng hiện đại
 
-| Loại hệ thống | Mô tả | Ví dụ |
+| Loại hệ thống  | Mô tả | Ví dụ  |
 |----------------|-------|--------|
 | **ERP** | Tích hợp toàn bộ quy trình doanh nghiệp | SAP, Oracle ERP |
-| **CRM** | Quản lý khách hàng và bán hàng | Salesforce, HubSpot |
-| **SCM** | Quản lý chuỗi cung ứng | Toyota SCM |
-| **LMS** | Quản lý học tập và đào tạo | Moodle, Canvas |
-| **E-Gov** | Dịch vụ công trực tuyến | Cổng DVCQG Việt Nam |
+| **CRM** | Quản lý khách hàng và bán hàng          | Salesforce, HubSpot |
+| **SCM** | Quản lý chuỗi cung ứng                  | Toyota SCM |
+| **LMS** | Quản lý học tập và đào tạo              | Moodle, Canvas |
+| **E-Gov** | Dịch vụ công trực tuyến               | Cổng DVCQG Việt Nam |
 
 ---
 
